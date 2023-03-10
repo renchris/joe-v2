@@ -2,7 +2,7 @@
 
 pragma solidity 0.8.10;
 
-import "@openzeppelin/contracts/utils/introspection/IERC165.sol";
+import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/introspection/IERC165.sol";
 
 /// @title Liquidity Book Token Interface
 /// @author Trader Joe
